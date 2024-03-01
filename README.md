@@ -1,3 +1,11 @@
+Task-01:
+
+Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+Sample Dataset :- https://data.worldbank.org/indicator/SP.POP.TOTL
+
+
+DESCRIPTION:
+
 Categorical or continuous variables can represent any type of data, not just population and country. They refer to different types of data that can be analyzed and visualized in various ways. In the given dataset i m comparing the distribution of a categorical variable (countries) based on a continuous variable (population).
 
 Categorical variables represent data that can be divided into distinct categories or groups. Examples include gender, ethnicity, occupation,countries etc.
