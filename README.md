@@ -7,7 +7,9 @@ Sample Dataset :- https://data.worldbank.org/indicator/SP.POP.TOTL
 
 DESCRIPTION:
 
-Categorical or continuous variables can represent any type of data, not just population and country. They refer to different types of data that can be analyzed and visualized in various ways. In the given dataset i m comparing the distribution of a categorical variable (countries) based on a continuous variable (population).
+Categorical or continuous variables can represent any type of data, not just age or gender. They refer to different types of data that can be analyzed and visualized in various ways. 
+
+In the given dataset i m comparing the distribution of a categorical variable (countries) based on a continuous variable (population) and analysed the distribution using bar chart.
 
 Categorical variables represent data that can be divided into distinct categories or groups. Examples include gender, ethnicity, occupation,countries etc.
 
